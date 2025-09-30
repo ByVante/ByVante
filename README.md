@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Devante! Mainly known as Vanté  👋
+Aspiring Cloud & Systems Engineer.
+Exploring the endless possibilities of the Cloud!
 
-<!--
-**ByVante/ByVante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 What I'm Learning
+- Linux system administration  
+- Python scripting & automation  
+- Networking fundamentals  
+- AWS cloud basics  
 
-Here are some ideas to get you started:
+## 🔧 Current Projects
+- Linux Automation Scripts (in progress)  
+- Portfolio Website (hosted on AWS S3)  
+- Networking Toolkit (planned)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: <https://www.linkedin.com/in/devanteabbey/>
+- Email: Devante.abbey@gmail.com
